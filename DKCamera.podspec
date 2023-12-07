@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = "DKCamera"
-  s.version       = "1.6.8-LK"
+  s.version       = "1.6.9"
   s.summary       = "A light weight & simple & easy camera for iOS by Swift."
   s.homepage      = "https://github.com/lightningkite/DKCamera"
   s.license       = { :type => "MIT", :file => "LICENSE" }
